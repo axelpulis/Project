@@ -1,0 +1,38 @@
+html{
+    background-image: url('http://oi67.tinypic.com/68zkli.jpg');
+    
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black
+}
+
+
+
+body{
+    height: 100%;
+background-color: transparent;
+}
+
+#buttonstyle {
+    color: white;
+    text-decoration: none;
+}
+
+
+.btn-primary,
+
+.btn-primary,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: #ad8446;
+    border-color: #ad8446;
+}
+.btn-primary:hover
+{
+   background-color: #ba9357;
+    border-color: #ba9357;  
+}
